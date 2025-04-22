@@ -1,1 +1,0 @@
-# dynamic_list_manager_chole
